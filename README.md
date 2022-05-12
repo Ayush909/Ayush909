@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <div align = 'center'>
- <img src = "https://pbs.twimg.com/profile_banners/1085274763688202240/1596613233/1500x500"  /></div> -->
+ <img src = "https://capsule-render.vercel.app/api?type=waving&color=1C212A&height=200&section=header&text=Ayush%20Singh%20Kushwaha&fontSize=30&fontColor=fff"  /></div> -->
  
 <h1 align="center">Hi 👋, I'm Ayush Kushwaha</h1>
 <h3 align="center">System Engineer | Web Developer</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 I’m currently working at [TCS](https://www.tcs.com/) as a System Engineer 
+- 🌱 I’m passionate about web applications & full stack development
 
 - 👨‍💻 Checkout my portfolio at [https://ayush909.github.io/thatsme/](https://ayush909.github.io/thatsme)
 
