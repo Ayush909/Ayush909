@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- <div align = 'center'>
+ <img src = "https://pbs.twimg.com/profile_banners/1085274763688202240/1596613233/1500x500"  /></div> -->
+ 
 <h1 align="center">Hi 👋, I'm Ayush Kushwaha</h1>
 <h3 align="center">System Engineer | Web Developer</h3>
 
