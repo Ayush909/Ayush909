@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Ayush909/github-readme-stats">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ayush909&hide=stars&count_private=true&show_icons=true" />
+ <img width="400" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=Ayush909&hide=stars&count_private=true&show_icons=true" />
  </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush909&show_icons=true&locale=en&layout=compact" alt="ayush909" /></p>
