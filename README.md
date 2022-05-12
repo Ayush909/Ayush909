@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ayush909/Ayush909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ayush Singh Kushwaha</h1>
-<h3 align="center">I love meeting new people.</h3>
+<h1 align="center">Hi 👋, I'm Ayush Kushwaha</h1>
+<h3 align="center">System Engineer | Web Developer</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kushwahaayu9@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact: **Probably coding or travelling right now 😜**
 
 <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="alt text" title="image Title" width="270" align="right"/>
 
