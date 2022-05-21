@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **Probably coding or travelling right now 😜**
 
-<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="alt text" title="image Title" width="270" align="right"/>
+<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="270" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
