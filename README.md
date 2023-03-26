@@ -18,10 +18,10 @@ Here are some ideas to get you started:
  
  
 <h1 align="center">Hi 👋, I'm Ayush Kushwaha</h1>
-<h3 align="center">System Engineer | Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
-- 🔭 I’m currently working at [TCS](https://www.tcs.com/) as a System Engineer 
-- 🌱 I’m passionate about web applications & full stack development
+- 🔭 I’m currently working at [TCS](https://www.tcs.com/) as a Frontend Engineer. 
+- 🌱 I’m all beautiful applications on the web we you use. 
 
 - 👨‍💻 Checkout my portfolio at [https://ayush909.github.io/thatsme/](https://ayush909.github.io/thatsme)
 
