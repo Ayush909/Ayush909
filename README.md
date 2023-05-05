@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 <h3 align="center">Frontend Web Developer</h3>
 
 - 🔭 I’m currently working at [TCS](https://www.tcs.com/) as a Frontend Engineer. 
-- 🌱 I’m all beautiful applications on the web we you use. 
+- 🌱 I’m all about the beautiful applications on the web. 
 
 - 👨‍💻 Checkout my portfolio at [https://ayush909.github.io/thatsme/](https://ayush909.github.io/thatsme)
 
 - 📫 How to reach me **kushwahaayu9@gmail.com** / @[LinkedIn](https://www.linkedin.com/in/ayushsingh9/)
-
-- ⚡ Lines that I live by: **“Loyalty is a two-way street. If I'm asking for it from you, then you're getting it from me.**
 
 <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="270" align="right"/>
 
