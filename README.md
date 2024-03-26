@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ayush Kushwaha</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-- 🔭 I’m currently working at [TCS](https://www.tcs.com/) as a Frontend Engineer. 
+- 🔭 I’m currently working at [Avis Budget Group](https://www.avisbudgetgroup.com/) as a Software Development Engineer. 
 - 🌱 I’m all about the beautiful applications on the web. 
 
 - 👨‍💻 Checkout my portfolio at [https://ayush909.github.io/thatsme/](https://ayush909.github.io/thatsme)
